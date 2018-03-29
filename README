@@ -1,0 +1,4 @@
+Coin Info
+
+Coin Info is a Google Assistant app which gives information about cryptocurrencies listed on coinmarketcap.com.
+Developed with the help of flask-assistant and hosted on heroku.com.
