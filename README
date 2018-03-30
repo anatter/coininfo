@@ -1,5 +1,5 @@
 ![coin info](logo)
-[logo] = https://lh3.googleusercontent.com/HJOAjeHcGsl6U72R7Dim8pAAU2hHZX5RbQ0AstbrmOSnhjBO92_c3xPNaQ6nSmXbrqtZPRBDXEqj=s135
+[logo]: https://lh3.googleusercontent.com/HJOAjeHcGsl6U72R7Dim8pAAU2hHZX5RbQ0AstbrmOSnhjBO92_c3xPNaQ6nSmXbrqtZPRBDXEqj=s135 "Coin Info"
 #Coin Info
 
 Coin Info is a Google Assistant app which gives information (in German) about cryptocurrencies listed on [coinmarketcap](www.coinmarketcap.com).
